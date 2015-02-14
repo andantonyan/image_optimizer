@@ -1,0 +1,8 @@
+{
+	"quality": 80,
+	"extensions" : ["jpg", "png"],
+	"change_extensions": {
+		"comment": "ex. change value to 'jpg' for all images convert to 'jpeg'",
+		"value" : false
+	}
+}
